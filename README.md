@@ -45,3 +45,6 @@ This project demonstrates:
 - smarter predictive ball tracking
 - multiplayer mode
 - performance analytics dashboard
+
+<img width="1601" height="1064" alt="image" src="https://github.com/user-attachments/assets/3510acf3-bee5-4cef-bca2-25c1f9984423" />
+
